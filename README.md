@@ -1,3 +1,4 @@
+
 # Qt C++ Neural network with GUI
 This implementation of neural network is written on C++.
 It has GUI which developed with Qt framework.
@@ -8,3 +9,7 @@ Backpropagation algorithm is used for learning network and gradient
 descent for minimizing cost function.
 
 ![App screen](./screen.png)
+
+# Neural-network-Qt-C--master_okruglenie_2
+форк программы Андрея Балана
+
