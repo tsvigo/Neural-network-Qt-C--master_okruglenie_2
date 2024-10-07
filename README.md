@@ -11,5 +11,5 @@ descent for minimizing cost function.
 ![App screen](./screen.png)
 
 # Neural-network-Qt-C--master_okruglenie_2
-Форк программы Андрея Балана. Все числа с плавающей запятой переведены на свой класс RoundedDouble который чётко округляет числа с плавающей запятой к 8 знакам после запятой.
+форк программы Андрея Балана
 
